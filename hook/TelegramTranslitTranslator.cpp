@@ -86,7 +86,7 @@ const Translator::TranslitMap Translator::mTranslitMap = {
     {"N", L'Н'},
     {"O", L'О'},
     {"P", L'П'},
-    {"R", L'r'},
+    {"R", L'Р'},
     {"S", L'С'},
     {"T", L'Т'},
     {"U", L'У'},
